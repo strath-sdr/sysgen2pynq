@@ -2,3 +2,5 @@
 models/axi_stream_template/.Xil/
 *.log
 models/axi_stream_template/slprj/
+*.autosave
+*\netlist
