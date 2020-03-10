@@ -4,3 +4,6 @@ models/axi_stream_template/.Xil/
 models/axi_stream_template/slprj/
 *.autosave
 *\netlist
+*.mat
+*.xml
+*.slxc
